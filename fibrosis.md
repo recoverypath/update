@@ -3,8 +3,7 @@
 
 # Papers on pentoxifylline + vtitamine E therapy
 * [A randomized prospective study of extended tocopherol and pentoxifylline therapy, in addition to carbogen, in the treatment of radiation late effects; 
-S Brennan, O Salib, C O'Shea and M Moriarty](https://ecancer.org/en/journal/article/81-a-randomised-prospective-study-of-extended-tocopherol-and-pentoxifylline-therapy-in-addition-to-carbogen-in-the-treatment-of-radiation-late-effects)
-  * https://doi.org/10.3332/ecancer.2008.81
+S Brennan, O Salib, C O'Shea and M Moriarty; Published 9/6/2008 by eCancer.org; ](https://ecancer.org/en/journal/article/81-a-randomised-prospective-study-of-extended-tocopherol-and-pentoxifylline-therapy-in-addition-to-carbogen-in-the-treatment-of-radiation-late-effects)  ----  https://doi.org/10.3332/ecancer.2008.81
   * Abstract:
     * Purpose: pentoxifylline (PTX) and tocopherol (vitamin E) are antioxidants previously shown to be useful in combination in the treatment of late radiation induced toxicity. The purpose of this study was to investigate the benefit of combination therapy with carbogen pentoxifylline and tocopherol in the mitigation of late radiation effects. As the optimal duration of PTX and tocopherol treatment has not been fully established, we studied short versus extended treatment duration.  
     * Methods: we conducted a phase II prospective randomized study of short versus prolonged treatment with pentoxifylline (800 mg) and tocopherol (1000 IU) orally once daily in patients with grade three toxicity post-radical radiotherapy. In addition, all 18 patients received inhaled carbogen (95% O + 5% CO2) over 90 minutes, five days/week, for three weeks. The primary end point was improved in maximum Lent-Soma toxicity scores.
