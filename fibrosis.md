@@ -26,25 +26,16 @@
   * Side effects of radiation therapy: Radiation therapy may produce acute and late, and local and systemic side effects as well as cause DNA damage in the cells. Side effects that occur either during or within three months of radiation therapy are termed acute side effects. Loss of key cell populations, due to direct cell death, is the underlying cause. Late side effects can take months or years to manifest and are due largely to scarring and vascular damage (Figure 1).
 
  
- * []()
+* [Pentoxifylline and tocopherol (vitamin E) with/without clodronate for the management of osteoradionecrosis: A scoping review; by  Assim Banjar, Vinod Patel, Hassan Abed; First published: 25 October 2021 https://doi.org/10.1111/odi.14058](https://onlinelibrary.wiley.com/doi/abs/10.1111/odi.14058)
   * Abstract:
+    * Background: Treatment of osteoradionecrosis (ORN) is not a straightforward task, and it is unpredictable. However, a combination of pentoxifylline; an antioxidant drug, and tocopherol (vitamin E) works as a potent antifibrotic agent and have shown recently both significant and impressive results.
+    * Aims:  This scoping review aims to investigate the most prescribed regimen of pentoxifylline and tocopherol with/without clodronate for the management of ORN.
+    * Methods: Ovid MEDLINE and EMBASE databases were used to retrieve eligible studies using planned search keywords. PROSPERO and Cohcarne library were also searched for ongoing or published systematic reviews, respectively. Included articles were grouped thematically according to the type of studies and accordingly they were summarized.
+    * Results: A total of 27 articles met the inclusion criteria and included in the data analyses. All the included articles were published between 1997 and 2020. Of these 27 included studies, two were randomized control trials, two were systematic reviews, six were retrospective studies, five were observational studies, seven were narrative reviews, four were case reports, and lastly one was an in-vitro study.
+    * Conclusions: Treatment by PENTO (800 mg of pentoxifylline + 1000 IU of tocopherol) once daily for an early established ORN or PENTOCLO (PENTO regimen + 1600 mg of clodronate) once daily for the refractory/severe cases of ORN appears to be the most prescribed regimen used for the treatment of ORN using these drugs. These drugs appear safe, effective and inexpensive for the treatment of ORN.
+ 
 
- 
- 
- * []()
-  * Abstract:
- 
- 
- * []()
-  * Abstract:
- 
- 
- * []()
-  * Abstract:
- 
- 
- 
- * [A Literature Review of Late Complications of Radiation Therapy for Head and Neck Cancers: Incidence and Dose Response; by Niranjan Bhandare* and William M Mendenhall; Department of Radiation Oncology, University of Florida, Gainesville, USA](https://www.hilarispublisher.com/open-access/a-literature-review-of-late-complications-of-radiation-therapy-for-head-and-neck-cancers-incidence-and-dose-response-2155-9619.S2-009.pdf)
+* [A Literature Review of Late Complications of Radiation Therapy for Head and Neck Cancers: Incidence and Dose Response; by Niranjan Bhandare* and William M Mendenhall; Department of Radiation Oncology, University of Florida, Gainesville, USA](https://www.hilarispublisher.com/open-access/a-literature-review-of-late-complications-of-radiation-therapy-for-head-and-neck-cancers-incidence-and-dose-response-2155-9619.S2-009.pdf)
   * Abstract: Depending on the time of its occurrence, toxicity from cancer therapy is classified as acute or delayed. Acute
 toxicity develops during or shortly after completion of treatment. It is often temporary and usually can be managed
 by conservative means. Delayed toxicity occurs months or years after treatment and is often permanent. The
@@ -52,3 +43,19 @@ underlying processes of many delayed toxicities are not well understood, thus li
 and management. Delayed toxicities may exhibit severe manifestations that can affect a patient’s quality of life
 significantly. This report reviews some late complications of head and neck after radiation therapy and relevant
 dose-response information.
+
+
+ 
+ * []()
+  * Abstract:
+ 
+ 
+ * []()
+  * Abstract:
+ 
+ 
+ * []()
+  * Abstract:
+ 
+ 
+ 
