@@ -18,7 +18,7 @@
     * Conclusions: Ptx and VitE may be of benefit in the management of adverse radiation effects and should be studied further.
 
  
- * [Pentoxifylline and vitamin E alone or in combination for preventing and treating side effects of radiation therapy and concomitant chemoradiotherapy; by Puneet Pareek 1,✉, Aditi Sharma 2, Joseph Rajiv Thipparampalli 3, Pulkit Nag 4, Neeraj Gupta 5, Shashank Shekhar 6, Richard Kirubakaran; Cochrane Database Syst Rev. 2016 Mar 10;2016(3);  ---- doi: 10.1002/14651858.CD012117](https://pmc.ncbi.nlm.nih.gov/articles/PMC6457585/#CD012117-sec1-0006)
+* [Pentoxifylline and vitamin E alone or in combination for preventing and treating side effects of radiation therapy and concomitant chemoradiotherapy; by Puneet Pareek 1,✉, Aditi Sharma 2, Joseph Rajiv Thipparampalli 3, Pulkit Nag 4, Neeraj Gupta 5, Shashank Shekhar 6, Richard Kirubakaran; Cochrane Database Syst Rev. 2016 Mar 10;2016(3);  ---- doi: 10.1002/14651858.CD012117](https://pmc.ncbi.nlm.nih.gov/articles/PMC6457585/#CD012117-sec1-0006)
   * This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the following.
     * Pentoxifylline or vitamin E, or both, for the prevention or treatment of side effects of therapeutic radiation therapy alone or combined with chemotherapy in people with cancer.
     * Adverse effects of either pentoxifylline or vitamin E, or both, when given to people with cancer during radiation therapy alone or combined with chemotherapy.
