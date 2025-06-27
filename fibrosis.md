@@ -18,7 +18,7 @@
     * Conclusions: Ptx and VitE may be of benefit in the management of adverse radiation effects and should be studied further.
 
  
-* 3. [Pentoxifylline and vitamin E alone or in combination for preventing and treating side effects of radiation therapy and concomitant chemoradiotherapy; by Puneet Pareek 1,✉, Aditi Sharma 2, Joseph Rajiv Thipparampalli 3, Pulkit Nag 4, Neeraj Gupta 5, Shashank Shekhar 6, Richard Kirubakaran; Cochrane Database Syst Rev. 2016 Mar 10;2016(3);  ---- doi: 10.1002/14651858.CD012117](https://pmc.ncbi.nlm.nih.gov/articles/PMC6457585/#CD012117-sec1-0006)
+3. [Pentoxifylline and vitamin E alone or in combination for preventing and treating side effects of radiation therapy and concomitant chemoradiotherapy; by Puneet Pareek 1,✉, Aditi Sharma 2, Joseph Rajiv Thipparampalli 3, Pulkit Nag 4, Neeraj Gupta 5, Shashank Shekhar 6, Richard Kirubakaran; Cochrane Database Syst Rev. 2016 Mar 10;2016(3);  ---- doi: 10.1002/14651858.CD012117](https://pmc.ncbi.nlm.nih.gov/articles/PMC6457585/#CD012117-sec1-0006)
   * This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the following.
     * Pentoxifylline or vitamin E, or both, for the prevention or treatment of side effects of therapeutic radiation therapy alone or combined with chemotherapy in people with cancer.
     * Adverse effects of either pentoxifylline or vitamin E, or both, when given to people with cancer during radiation therapy alone or combined with chemotherapy.
@@ -26,7 +26,7 @@
   * Side effects of radiation therapy: Radiation therapy may produce acute and late, and local and systemic side effects as well as cause DNA damage in the cells. Side effects that occur either during or within three months of radiation therapy are termed acute side effects. Loss of key cell populations, due to direct cell death, is the underlying cause. Late side effects can take months or years to manifest and are due largely to scarring and vascular damage (Figure 1).
 
  
-* 4. [Pentoxifylline and tocopherol (vitamin E) with/without clodronate for the management of osteoradionecrosis: A scoping review; by  Assim Banjar, Vinod Patel, Hassan Abed; First published: 25 October 2021 https://doi.org/10.1111/odi.14058](https://onlinelibrary.wiley.com/doi/abs/10.1111/odi.14058)
+4. [Pentoxifylline and tocopherol (vitamin E) with/without clodronate for the management of osteoradionecrosis: A scoping review; by  Assim Banjar, Vinod Patel, Hassan Abed; First published: 25 October 2021 https://doi.org/10.1111/odi.14058](https://onlinelibrary.wiley.com/doi/abs/10.1111/odi.14058)
   * Abstract:
     * Background: Treatment of osteoradionecrosis (ORN) is not a straightforward task, and it is unpredictable. However, a combination of pentoxifylline; an antioxidant drug, and tocopherol (vitamin E) works as a potent antifibrotic agent and have shown recently both significant and impressive results.
     * Aims:  This scoping review aims to investigate the most prescribed regimen of pentoxifylline and tocopherol with/without clodronate for the management of ORN.
@@ -35,7 +35,7 @@
     * Conclusions: Treatment by PENTO (800 mg of pentoxifylline + 1000 IU of tocopherol) once daily for an early established ORN or PENTOCLO (PENTO regimen + 1600 mg of clodronate) once daily for the refractory/severe cases of ORN appears to be the most prescribed regimen used for the treatment of ORN using these drugs. These drugs appear safe, effective and inexpensive for the treatment of ORN.
  
 
-* 5. [A Literature Review of Late Complications of Radiation Therapy for Head and Neck Cancers: Incidence and Dose Response; by Niranjan Bhandare* and William M Mendenhall; Department of Radiation Oncology, University of Florida, Gainesville, USA](https://www.hilarispublisher.com/open-access/a-literature-review-of-late-complications-of-radiation-therapy-for-head-and-neck-cancers-incidence-and-dose-response-2155-9619.S2-009.pdf)
+5. [A Literature Review of Late Complications of Radiation Therapy for Head and Neck Cancers: Incidence and Dose Response; by Niranjan Bhandare* and William M Mendenhall; Department of Radiation Oncology, University of Florida, Gainesville, USA](https://www.hilarispublisher.com/open-access/a-literature-review-of-late-complications-of-radiation-therapy-for-head-and-neck-cancers-incidence-and-dose-response-2155-9619.S2-009.pdf)
   * Abstract: Depending on the time of its occurrence, toxicity from cancer therapy is classified as acute or delayed. Acute
 toxicity develops during or shortly after completion of treatment. It is often temporary and usually can be managed
 by conservative means. Delayed toxicity occurs months or years after treatment and is often permanent. The
