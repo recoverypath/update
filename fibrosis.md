@@ -1,4 +1,27 @@
 # fibrosis.md
+
+## From Dr. Eppich 7/2/2025
+* [uptodate.com: Clinical manifestations, prevention, and treatment of radiation-induced fibrosis](https://www.uptodate.com/contents/clinical-manifestations-prevention-and-treatment-of-radiation-induced-fibrosis?csi=11f865fb-fbf8-4019-beca-e1dfee6b0291&source=contentShare)
+  ```
+
+  Pentoxifylline plus tocopherol — Pentoxifylline has been used alone and in combination with tocopherol, a scavenger of reactive oxygen, to treat radiation-induced fibrosis, as well as to prevent pulmonary toxicity. (See 'Pentoxifylline' above.)
+
+The potential clinical utility of pentoxifylline, either alone or with tocopherol (vitamin E), to treat established radiation-induced fibrosis was initially suggested by case reports and observational series in a variety of settings, in which treatment resulted in healing or symptomatic improvement. These observations included:
+
+●Partial reversal of soft tissue fibrosis following RT [48,88-90]
+
+●Healing of radiation-induced soft tissue and bone necrosis [91-95]
+
+●Improvement in symptoms of trismus [96]
+
+●Reduction in pelvic fibrosis after childhood RT [97,98]
+
+●Improvement of radiation-induced lumbosacral polyradiculopathy [99]
+
+
+  ```
+
+
 2025.06.27
 
 # Papers on pentoxifylline + vtitamine E therapy
