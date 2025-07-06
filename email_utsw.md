@@ -38,3 +38,21 @@ During the last few days I noticed a significant change in my tongue. I have a c
 Respectfully,
 xxx
 
+
+---------------
+
+2025.07.05
+
+Hi Dr Day,
+My PCP DR. Eppich reviewed this paper
+
+https://www.uptodate.com/contents/clinical-manifestations-prevention-and-treatment-of-radiation-induced-fibrosis?csi=11f865fb-fbf8-4019-beca-e1dfee6b0291&source=contentShare
+
+Based on info in that paper Dr.Eppich thinks it is OK to try pentoxifylline ER 400 mg tablet twice a day for three months.
+He thinks it may reduce the effects of fibrosis in my neck and mouth.
+
+Dr. Day, you have more experience treating patients with head and neck fibrosis due to radiation.
+I would like to know you opinion. Does the paper provide convincing argument to trying pentoxifylline, or is it still not advisable?
+
+Thank you
+xxx
