@@ -21,6 +21,12 @@ Please let me know if I can help with anything else!
  
 yyy
 
+
+6/30/2025
+
+Please call 214-645-9729 to schedule the MRI in 3 months!  Thanks!
+
+
 ----------------
 
 
