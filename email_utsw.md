@@ -3,7 +3,7 @@
 
 -------------
 
-From Dr.Day, 6/26/2025
+From Dr.D, 6/26/2025
 
 Mr. xxx,
 
@@ -19,13 +19,13 @@ This might be a better conversation to have in-person or via telehealth.  I thin
  
 Please let me know if I can help with anything else!
  
-Andrew
+yyy
 
 ----------------
 
 
 
-Hi Dr. Day. Over the past several weeks, I’ve been experiencing increasing stiffness in the muscles of my neck and mouth. I’ve been doing stretching exercises and working with my physical therapy specialist, but unfortunately, the stiffness continues to progress.
+Hi Dr. D. Over the past several weeks, I’ve been experiencing increasing stiffness in the muscles of my neck and mouth. I’ve been doing stretching exercises and working with my physical therapy specialist, but unfortunately, the stiffness continues to progress.
 In an effort to better understand my condition and explore additional treatment options, I’ve been reviewing some of the papers listed here:
  
 https://github.com/recoverypath/update/blob/main/fibrosis.md
@@ -42,15 +42,15 @@ xxx
 
 2025.07.05
 
-Hi Dr Day,
-My PCP DR. Eppich reviewed this paper
+Hi Dr D,
+My PCP DR. E reviewed this paper
 
 https://www.uptodate.com/contents/clinical-manifestations-prevention-and-treatment-of-radiation-induced-fibrosis?csi=11f865fb-fbf8-4019-beca-e1dfee6b0291&source=contentShare
 
-Based on info in that paper Dr.Eppich thinks it is OK to try pentoxifylline ER 400 mg tablet twice a day for three months.
+Based on info in that paper Dr.E thinks it is OK to try pentoxifylline ER 400 mg tablet twice a day for three months.
 He thinks it may reduce the effects of fibrosis in my neck and mouth.
 
-Dr. Day, you have more experience treating patients with head and neck fibrosis due to radiation.
+Dr. D, you have more experience treating patients with head and neck fibrosis due to radiation.
 I would like to know you opinion. Does the paper provide convincing argument to trying pentoxifylline, or is it still not advisable?
 
 Thank you
