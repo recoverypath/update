@@ -1,6 +1,5 @@
 
 
-faridvzvz@gmail.com
 
 -------------
 
